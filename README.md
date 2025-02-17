@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Ankush Karmokar
-- 👀 I am a recent graduate with a (B.Com) degree and I am eager to begin my career in data analysis.
+-  Hi, I’m Ankush Karmokar
+-  I am a recent graduate with a (B.Com) degree and I am eager to begin my career in data analysis.
 -  I have developed a keen interest in data management, analytics, and statistical tools.
-- 🌱  I have also honed my skills in data collection, data cleaning, and basic analysis I’m currently learning ... SQl | Excel | Power BI | Tableau | Python
+-  I have also honed my skills in data collection, data cleaning, and basic analysis I’m currently learning ... SQl | Excel | Power BI | Tableau | Python
 
 
 <!---
